@@ -4,7 +4,7 @@ Welcome to my Figma UI Design Repository! This repository contains the design as
 
 ## Design Preview
 
-![Design Preview](docs/your-design-preview.png)
+![Design Preview](Doc/Preview.png)
 
 *Include a brief description of your design and a preview image.*
 
@@ -18,9 +18,9 @@ Welcome to my Figma UI Design Repository! This repository contains the design as
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repository.git`
+1. Clone the repository: https://github.com/RMMagesh07/Do-Done-Task-Management-Mobile-App-UiDesign
 2. Open the `docs` folder to view exported design assets.
-3. Visit [GitHub Pages](https://yourusername.github.io/your-repository/) to see the live design preview.
+3. Visit [GitHub Pages](https://github.com/RMMagesh07/Do-Done-Task-Management-Mobile-App-UiDesign) to see the live design preview.
 
 *Include instructions on how to get started with your design.*
 
