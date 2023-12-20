@@ -6,7 +6,8 @@ Welcome to my Figma UI Design Repository! This repository contains the design as
 
 ![Design Preview](Doc/Preview.png)
 
-*Include a brief description of your design and a preview image.*
+Designed and developed an Do-Done(Task Management App)user interface using Figma, demonstrating a  keen focus on user-centered design principles. Conducted comprehensive user research to inform the  creation of an intuitive and engaging interface, and implemented responsive design for seamless cross-  device experiences.
+
 
 ## Key Features
 
