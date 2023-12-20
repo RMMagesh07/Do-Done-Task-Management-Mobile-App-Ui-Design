@@ -26,7 +26,7 @@ Welcome to my Figma UI Design Repository! This repository contains the design as
 
 ## Feedback
 
-I welcome your feedback, suggestions, and thoughts on the design. Feel free to [open an issue](https://github.com/yourusername/your-repository/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/rm-magesh-575293255/).
+I welcome your feedback, suggestions, and thoughts on the design. Feel free to [open an issue](https://github.com/RMMagesh07/Do-Done-Task-Management-Mobile-App-UiDesign/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/rm-magesh-575293255/).
 
 *Encourage users to provide feedback.*
 
